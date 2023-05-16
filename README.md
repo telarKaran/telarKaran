@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Telar Karan</h1>
-<p><pre>  </pre> Welcome to my GitHub account! I am a Senior Analyst at Capgemini with a strong background in front-end development, including HTML, CSS, JavaScript, and frameworks like React and Angular. On this account, you will find a collection of my personal projects and contributions, showcasing my passion for creating beautiful and user-friendly experiences. Let's connect and collaborate to bring our ideas to life.</P>
+<p> Welcome to my GitHub account! I am a Senior Analyst at Capgemini with a strong background in front-end development, including HTML, CSS, JavaScript, and frameworks like React and Angular. On this account, you will find a collection of my personal projects and contributions, showcasing my passion for creating beautiful and user-friendly experiences. Let's connect and collaborate to bring our ideas to life.</P>
 
 
 ## 💻 Tech Stack:
@@ -20,3 +20,4 @@
 <hr> 	
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+<pre>  </pre>
