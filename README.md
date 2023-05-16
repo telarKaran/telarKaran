@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Telar Karan</h1>
-<h3 align="center">Greetings and welcome to my GitHub account. As a Senior Analyst at Capgemini, I have dedicated myself to the craft of front-end development with a focus on technologies such as HTML, CSS, JavaScript, and frameworks including React and Angular. I am passionate about exploring new web development trends and techniques to enhance user experiences and drive results. This account serves as a portfolio of my personal projects and contributions, where I apply my expertise to create solutions that balance aesthetics with functionality and usability. I look forward to collaborating with fellow developers and organizations to deliver innovative and impactful products.</h3>
+<h3 align="center">Welcome to my GitHub account! I am a Senior Analyst at Capgemini with a strong background in front-end development, including HTML, CSS, JavaScript, and frameworks like React and Angular. On this account, you will find a collection of my personal projects and contributions, showcasing my passion for creating beautiful and user-friendly experiences. Let's connect and collaborate to bring our ideas to life.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
