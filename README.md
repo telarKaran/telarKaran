@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Telar Karan</h1>
+<h1 align="center">Hi 👋, <a href="https://telarkaran.netlify.app/>"I'm Telar Karan</a></h1>
 <p>&nbsp;&nbsp;Welcome to my GitHub account! I am a Senior Analyst at Capgemini with a focus on full-stack development, including front-end technologies such as HTML, CSS, JavaScript, and frameworks like React and Angular, as well as back-end development using Spring Boot. On this account, you will find a collection of my personal projects and contributions, showcasing my passion for creating seamless and user-friendly experiences that leverage the power of both front-end and back-end technologies.</P>
   
  <div align="center"> 
